@@ -15,7 +15,7 @@ hal-rs initiative goals is maintain of hardware access libraries
 
 | Repository | Crate |
 | --- | --- |
-| [serial-rs](https://github.com/dcuddeback/serial-rs)  | [serial](https://crates.io/crates/serial)  |
+| [serialport-rs](https://gitlab.com/susurrus/serialport-rs)  | [serialport](https://crates.io/crates/serialport)  |
 | [tokio-serial](https://github.com/berkowski/tokio-serial)  | [tokio-serial](https://crates.io/crates/tokio-serial)  |
 
 
