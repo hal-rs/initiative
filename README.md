@@ -11,7 +11,7 @@ hal-rs initiative goals is maintain of hardware access libraries
 | [libusb-sys](https://github.com/dcuddeback/libusb-sys)  | [libusb-sys](https://crates.io/crates/libusb-sys)  |
 
 
-## Searial Port
+## Serial Port
 
 | Repository | Crate |
 | --- | --- |
