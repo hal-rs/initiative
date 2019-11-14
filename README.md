@@ -7,6 +7,7 @@ hal-rs initiative goals is maintain of hardware access libraries
 
 | Repository | Crate |
 | --- | --- |
+| [rusb](https://github.com/a1ien/rusb)  | [rusb](https://crates.io/crates/rusb)  |
 | [libusb-rs](https://github.com/dcuddeback/libusb-rs)  | [libusb](https://crates.io/crates/libusb)  |
 | [libusb-sys](https://github.com/dcuddeback/libusb-sys)  | [libusb-sys](https://crates.io/crates/libusb-sys)  |
 
