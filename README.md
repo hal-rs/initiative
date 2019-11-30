@@ -5,16 +5,17 @@ hal-rs initiative goals is maintain of hardware access libraries
 
 ## USB
 
-| Repository | Crate |
-| --- | --- |
-| [rusb](https://github.com/a1ien/rusb)  | [rusb](https://crates.io/crates/rusb)  |
-| [libusb-rs](https://github.com/dcuddeback/libusb-rs)  | [libusb](https://crates.io/crates/libusb)  |
-| [libusb-sys](https://github.com/dcuddeback/libusb-sys)  | [libusb-sys](https://crates.io/crates/libusb-sys)  |
+| Repository | Crate | Maintained | Notes |
+| --- | --- | --- | --- |
+| [rusb](https://github.com/a1ien/rusb)  | [rusb](https://crates.io/crates/rusb)  | Actively | |
+| [libusb1-sys](https://github.com/a1ien/libusb1-sys)  | [libusb-sys](https://crates.io/crates/libusb1-sys)  | Actively | |
+| [libusb-rs](https://github.com/dcuddeback/libusb-rs)  | [libusb](https://crates.io/crates/libusb)  | Abandoned | Replace w/ **rusb** |
+| [libusb-sys](https://github.com/dcuddeback/libusb-sys)  | [libusb-sys](https://crates.io/crates/libusb-sys)  | Abandoned | Replace w/ **libusb1-sys** |
 
 
 ## Serial Port
 
-| Repository | Crate |
+| Repository | Crate | 
 | --- | --- |
 | [serialport-rs](https://gitlab.com/susurrus/serialport-rs)  | [serialport](https://crates.io/crates/serialport)  |
 | [serial-rs](https://github.com/dcuddeback/serial-rs) | [serial](https://crates.io/crates/serial) |
